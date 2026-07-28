@@ -1,5 +1,7 @@
 {
-  "name": "vite-template",
+  "name": "playzone-arcade-games",
+  "author": "Surag (Founder of HexaStack Solutions)",
+  "license": "UNLICENSED",
   "private": true,
   "version": "0.0.0",
   "type": "module",
