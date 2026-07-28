@@ -2,6 +2,8 @@
 
 > A modern, high-performance web-based arcade gaming platform built with React 19, Vite, Tailwind CSS v4, and Convex backend.
 
+🌐 **Live Demo**: [https://playzone-arcade-hub.vercel.app](https://playzone-arcade-hub.vercel.app)
+
 ---
 
 ## 📌 Project Overview
